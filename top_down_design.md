@@ -1,0 +1,33 @@
+## Ordering at a restaurant ##
+* To avoid too many diverging trees assume waitress brings check. *
+
+1. Go to restaurant
+1.1 Select restaurant
+1.2 Drive to restaurant
+1.3 Park
+1.4 Enter restaurant
+2. Be Seated
+2.1 Determine if restaurant is self-seated or hosted
+2.2a If self seated find table you like and sit
+2.2b If hosted approach host for seat
+2.2b1 Tell hostess number in party
+2.2b2 Either follow hostess to table or wait until table available
+3. Order Food
+3.1 Use menu to decide on desired food
+3.11 Quickly scan menu
+3.12
+3.2 Inform waiter of desired food
+3.3 Wait until food arrives
+3.3
+4. Pay
+4.1 Get the check
+4.2 Give the waitress your card or cash.
+4.21 Take your check total and multiply by between .15 and .25
+4.22 This is your amount to tip
+4.3a If paying in cash
+4.3aa If no change desired, leave restaurant
+4.3ab If change desired, wait until waiter returns
+4.3ab1 Make change
+4.3b If paying in credit
+4.3b1 Wait until waitress returns with your receipt
+4.3b2 Sign your receipt, make sure to add the number from 4.21 to the tip area.
