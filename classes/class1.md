@@ -1,5 +1,5 @@
 
-## Class table ##
+## Class Table ##
 
 ###### Attributes ######
 - Height - Int
