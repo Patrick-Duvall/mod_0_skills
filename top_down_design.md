@@ -15,10 +15,8 @@
 3. Order Food
 3.1 Use menu to decide on desired food
 3.11 Quickly scan menu
-3.12
 3.2 Inform waiter of desired food
 3.3 Wait until food arrives
-3.3
 4. Pay
 4.1 Get the check
 4.2 Give the waitress your card or cash.
