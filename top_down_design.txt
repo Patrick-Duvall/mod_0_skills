@@ -31,4 +31,4 @@ To avoid too many diverging trees assume waitress brings check.
 4.3b If paying in credit
 4.3b1 Wait until waitress returns with your receipt
 4.3b2 Sign your receipt, make sure to add the number from 4.21 to the tip area.
-```
+
